@@ -8,12 +8,18 @@ Used PyTorch in building the model framework, with Beam-search for drawing out p
 
 We also incorporated the Attention mechanism in one of the model's framework and observed its effects. 
 
-<!-- ![this](Image_Captioning\Captioned\and-then-we-told-them_beam_size_5.jpg) -->
 
-
-<!-- <p>
-    <img src="Image_Captioning/Captioned/and-then-we-told-them_beam_size_5.jpg" width=220 height=240>
-</p> -->
+## Captioned Samples
+<p>
+    <img src="Captioned/and-then-we-told-them_beam_size_5.jpg" width="200" height="200" />
+    <img src="Captioned/angry-black-woman_beam_size_5.jpg" width="200" height="200" />
+    <img src="Captioned/calamardo-says_beam_size_5.jpg" width="200" height="200" />
+</p>
+<p>
+    <img src="Captioned/chumlee_beam_size_7.jpg" width="200" height="200" />
+    <img src="Captioned/dr-phil_beam_size_3.jpg" width="200" height="200" />
+    <img src="Captioned/youre-wrong-and-i-hate-you_beam_size_7.jpg" width="200" height="200" />
+</p>
 
 ## Dependencies
 ---
@@ -59,9 +65,11 @@ There are many other arguments that can be altered written out in `args.py`
 
 ## TODO
 ---
-- [x]Incorporate Attention-mechanism into model framework
-- [ ]Increase data to make model and the vocabulary more robust
-- [ ]Some features I can't come up with rn :expressionless:
+✅ Incorporate Attention-mechanism into model framework
+
+⬜ Increase data to make model and the vocabulary more robust
+
+⬜ Some features I can't come up with rn :expressionless:
 
 ## References
 ---
