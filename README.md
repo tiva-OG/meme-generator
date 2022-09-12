@@ -33,7 +33,7 @@ We also incorporated the Attention mechanism in one of the model's framework and
 ---
 1. Clone the repository to maintain directory structure
 
-    `git clone ----`
+    `git clone https://github.com/tiva-OG/meme-generator.git`
 
 2. Move to the cloned repository, on the parent directory, run the command
 
