@@ -10,16 +10,16 @@ We also incorporated the Attention mechanism in one of the model's framework and
 
 
 ## Captioned Samples
-<p>
-    <img src="Captioned/and-then-we-told-them_beam_size_5.jpg" width="200" height="200" />
-    <img src="Captioned/angry-black-woman_beam_size_5.jpg" width="200" height="200" />
-    <img src="Captioned/calamardo-says_beam_size_5.jpg" width="200" height="200" />
-</p>
-<p>
-    <img src="Captioned/chumlee_beam_size_7.jpg" width="200" height="200" />
-    <img src="Captioned/dr-phil_beam_size_3.jpg" width="200" height="200" />
-    <img src="Captioned/youre-wrong-and-i-hate-you_beam_size_7.jpg" width="200" height="200" />
-</p>
+<table>
+    <tr>
+        <td><img src="Captioned/and-then-we-told-them_beam_size_5.jpg" width="200" height="200" /></td>
+        <td><img src="Captioned/angry-black-woman_beam_size_5.jpg" width="200" height="200" /></td>
+        <td><img src="Captioned/calamardo-says_beam_size_5.jpg" width="200" height="200" /></td>
+    <tr>
+        <td><img src="Captioned/chumlee_beam_size_7.jpg" width="200" height="200" /></td>
+        <td><img src="Captioned/dr-phil_beam_size_3.jpg" width="200" height="200" /></td>
+        <td><img src="Captioned/youre-wrong-and-i-hate-you_beam_size_7.jpg" width="200" height="200" /></td>
+<table>
 
 ## Dependencies
 ---
